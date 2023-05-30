@@ -9,3 +9,5 @@ Busco colaborar en proyectos relacionados con el desarrollo web, Angular y React
 
 Contacto: gustavo_moro@outlook.com.ar
 
+https://www.linkedin.com/in/gustavo-moro-b7a077221/
+
