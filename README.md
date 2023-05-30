@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @gusmemes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Programador Frontend
+*Experiencia en el desarrollo de aplicaciones web utilizando Angular,React,  HTML, CSS y JavaScript.
+*Interés en la creación de interfaces de usuario atractivas y funcionales.
+Aprendiendo constantemente nuevas técnicas y herramientas para mejorar mis habilidades como desarrollador frontend.
+Busco colaborar en proyectos relacionados con el desarrollo web, Angular y React.
 
-<!---
-gusmemes/gusmemes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contacto: gustavo_moro@outlook.com.ar
+
